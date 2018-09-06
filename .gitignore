@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.DS_Store
+.idea
+venv
+env
+*.env
+*.csv
+*.json
+.vscode
+**/*__pycache__
+
+**/*blank.py
