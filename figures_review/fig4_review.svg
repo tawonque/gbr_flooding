@@ -16,7 +16,10 @@
    width="2520pt"
    id="svg14193"
    sodipodi:docname="fig4_review.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="/Users/gus/Documents/GBR/Flooding_GBR/notebook/figures_review/fig4_review.png"
+   inkscape:export-xdpi="240"
+   inkscape:export-ydpi="240">
   <metadata
      id="metadata14197">
     <rdf:RDF>
@@ -42,7 +45,7 @@
      id="namedview14195"
      showgrid="false"
      inkscape:zoom="0.17738095"
-     inkscape:cx="1680"
+     inkscape:cx="552.48321"
      inkscape:cy="1680"
      inkscape:window-x="215"
      inkscape:window-y="0"
@@ -8472,18 +8475,12 @@
      id="text11197"
      y="255.60403"
      x="1417.4196"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;"
      xml:space="preserve"><tspan
        sodipodi:role="line"
-       id="tspan11201"
-       x="1417.4196"
-       y="255.60403"
-       style="stroke-linecap:butt;stroke-linejoin:round">GBR shelf - change in flooded area</tspan><tspan
+       id="tspan8594">GBR shelf - flooding magnitude</tspan><tspan
        sodipodi:role="line"
-       id="tspan11203"
-       x="1417.4196"
-       y="300.60403"
-       style="stroke-linecap:butt;stroke-linejoin:round"></tspan></text>
+       id="tspan8596" /></text>
   <text
      id="text11207"
      y="1305.01"
@@ -8497,20 +8494,14 @@
        style="stroke-linecap:butt;stroke-linejoin:round">shelf margin - cumulative flooded area</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;"
      x="1401.0605"
      y="1307.1946"
      id="text11213"><tspan
        sodipodi:role="line"
-       id="tspan11217"
-       x="1401.0605"
-       y="1307.1946"
-       style="stroke-linecap:butt;stroke-linejoin:round">shelf margin - change in flooded area</tspan><tspan
+       id="tspan8598">shelf margin - flooding magnitude</tspan><tspan
        sodipodi:role="line"
-       id="tspan11219"
-       x="1401.0605"
-       y="1352.1946"
-       style="stroke-linecap:butt;stroke-linejoin:round"></tspan></text>
+       id="tspan8600" /></text>
   <text
      transform="rotate(89.088927)"
      id="text11225"
