@@ -4,9 +4,7 @@
 venv
 env
 *.env
-*.csv
 *.json
 .vscode
 **/*__pycache__
-
 **/*blank.py
